@@ -313,7 +313,6 @@ AQRA/
 │   └── state.json             # Persistent paper trading state
 ├── reports/
 │   └── YYYY-MM-DD.html        # Daily HTML reports
-└── .env.example               # Telegram configuration template
 ```
 
 ---
